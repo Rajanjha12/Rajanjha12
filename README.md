@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rajan Kumar Jha
 **FULL STACK DEVELOPER || SOFTWARE Engineer || CODE REVIEW**
 
-Email Me 👉 ✉️ **rajanjha1222004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rajanjha12122004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
  🛠 I'm currently working on<br>A driving school website project using HTML, CSS, JavaScript, and Node.js. I'm also enhancing my portfolio with real-time applications like QR Code Generators and News APIs.<br><br>🤝 I'm looking to collaborate on<br>Open-source and community-driven projects, especially those using MERN stack or solving real-world problems.<br><br>💛 I'm looking for help with<br>Advanced backend integration and cloud deployment techniques.<br><br>🌱 I'm currently learning<br>TypeScript, system design, and optimizing algorithms for competitive coding.<br><br>💬 Ask me about<br>Front-end development (ReactJS), full-stack project building, DSA (C++/Python), and how to win hackathons!<br><br>⚡ Fun fact<br>I’ve participated in over 6 hackathons, led teams of 40+ members, and love connecting with tech enthusiasts to grow communities.
