@@ -47,7 +47,6 @@ Data Engineer • Full Stack Developer • Problem Solver • Open Source Enthus
 
 * Data Engineer Roles
 * Software Development Engineer (SDE)
-* GATE CSE 2027
 
 ---
 
